@@ -4,7 +4,7 @@ from ultralytics import YOLO
 
 def evaluate_model():
     """
-    Evaluates the fine-tuned YOLO v2 model on the test split of Dataset v2.
+    Evaluates the fine-tuned YOLOv8n v3 model on the test split of Dataset v3.
     This gives a final performance check on images that were not used for training.
     """
 

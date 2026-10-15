@@ -18,7 +18,7 @@ def compare_models():
         project_root
         / "results"
         / "fine_tuned"
-        / "yolov8n_desk_objects_v1"
+        / "yolov8n_desk_objects_v3"
         / "weights"
         / "best.pt"
     )
